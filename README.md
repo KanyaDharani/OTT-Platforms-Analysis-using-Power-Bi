@@ -12,7 +12,13 @@
 
 ## Hotstar Dataset - https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
 
-![OTT Platforms Analysis Using Power BI1024_1](https://user-images.githubusercontent.com/78950485/206841425-b8e818e8-cc81-48e3-8fa2-e161f8f31e9d.jpg)
-![OTT Platforms Analysis Using Power BI1024_2](https://user-images.githubusercontent.com/78950485/206841435-29f8a72d-61cc-4213-ae31-df3b5c771953.jpg)
-![OTT Platforms Analysis Using Power BI1024_3](https://user-images.githubusercontent.com/78950485/206841439-580fbdb5-8f9b-4d2f-a067-12cb640cef4f.jpg)
-![OTT Platforms Analysis Using Power BI1024_4](https://user-images.githubusercontent.com/78950485/206841444-8f233534-1470-439d-806a-905d623555b7.jpg)
+![Screenshot_20221210_141105](https://user-images.githubusercontent.com/78950485/206841633-2c00c61d-f5e9-4ad3-9195-5661edf4ba45.png)
+
+
+![Screenshot_20221210_141238](https://user-images.githubusercontent.com/78950485/206841746-b833fef3-86a9-4938-a425-716b203e6c6d.png)
+
+
+![Screenshot_20221210_141309](https://user-images.githubusercontent.com/78950485/206841749-0fbb6ffe-f44d-4600-b775-700b332d72db.png)
+
+
+![Screenshot_20221210_141355](https://user-images.githubusercontent.com/78950485/206841753-8449b169-eebc-4134-a027-f1eb883199dd.png)
